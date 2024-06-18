@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Envy</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 <center>
-  <img align="" alt="coding" with="1000px" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611r943z5uhu77irt563aqp8s646u2szeziij0dsy4m&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+  <img align="" alt="coding" with="1000px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flenguasextranjerastec.cdserdan.tecnm.mx%2F%3Fe%3Dcreate-vector-illustrations-animated-gif-according-to-your-need-ss-Ma5WbgIQ&psig=AOvVaw0M98gA6HnuM_zfQKLq-5mt&ust=1718812273397000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCODnhubA5YYDFQAAAAAdAAAAABAj">
 </center>
 
 
